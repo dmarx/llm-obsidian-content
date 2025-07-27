@@ -1,0 +1,205 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#colorclass/systems-theory",
+      "color": {
+        "a": 1,
+        "rgb": 7747180
+      }
+    },
+    {
+      "query": "tag:#colorclass/scatter-gather",
+      "color": {
+        "a": 1,
+        "rgb": 798369
+      }
+    },
+    {
+      "query": "tag:#colorclass/ecology",
+      "color": {
+        "a": 1,
+        "rgb": 282119
+      }
+    },
+    {
+      "query": "tag:#colorclass/vector-space",
+      "color": {
+        "a": 1,
+        "rgb": 14471710
+      }
+    },
+    {
+      "query": "tag:#colorclass/game-theory",
+      "color": {
+        "a": 1,
+        "rgb": 11756710
+      }
+    },
+    {
+      "query": "tag:#colorclass/edge-case",
+      "color": {
+        "a": 1,
+        "rgb": 5573793
+      }
+    },
+    {
+      "query": "tag:#colorclass/decision-making-processes",
+      "color": {
+        "a": 1,
+        "rgb": 2752308
+      }
+    },
+    {
+      "query": "tag:#colorclass/model-each-of-these-cases-using-an-elipsoidal-multivariate-normal-and-generate-a-plot-that-visualizes-these-distributions",
+      "color": {
+        "a": 1,
+        "rgb": 3941345
+      }
+    },
+    {
+      "query": "tag:#colorclass/target-audience",
+      "color": {
+        "a": 1,
+        "rgb": 9118074
+      }
+    },
+    {
+      "query": "tag:#colorclass/megatron-nvidia's-large-scale-transformer-model-framework",
+      "color": {
+        "a": 1,
+        "rgb": 2158120
+      }
+    },
+    {
+      "query": "tag:#colorclass/research-knowledge-graph-schema",
+      "color": {
+        "a": 1,
+        "rgb": 11647786
+      }
+    },
+    {
+      "query": "tag:#colorclass/construct-validity",
+      "color": {
+        "a": 1,
+        "rgb": 9836417
+      }
+    },
+    {
+      "query": "tag:#colorclass/signal-transduction",
+      "color": {
+        "a": 1,
+        "rgb": 4390735
+      }
+    },
+    {
+      "query": "tag:#colorclass/system-dynamics",
+      "color": {
+        "a": 1,
+        "rgb": 13077950
+      }
+    },
+    {
+      "query": "tag:#colorclass/reference-frame",
+      "color": {
+        "a": 1,
+        "rgb": 967445
+      }
+    },
+    {
+      "query": "tag:#colorclass/generate-a-hypothesized-detailed-curriculum,-to-the-best-of-your-ability",
+      "color": {
+        "a": 1,
+        "rgb": 12026123
+      }
+    },
+    {
+      "query": "tag:#colorclass/philosophy-of-language",
+      "color": {
+        "a": 1,
+        "rgb": 5894751
+      }
+    },
+    {
+      "query": "tag:#colorclass/emotional-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 8465523
+      }
+    },
+    {
+      "query": "tag:#colorclass/antibodies",
+      "color": {
+        "a": 1,
+        "rgb": 1697312
+      }
+    },
+    {
+      "query": "tag:#colorclass/critical-thinking",
+      "color": {
+        "a": 1,
+        "rgb": 3280109
+      }
+    },
+    {
+      "query": "tag:#colorclass/persona-non-grata",
+      "color": {
+        "a": 1,
+        "rgb": 827709
+      }
+    },
+    {
+      "query": "tag:#colorclass/information-theory",
+      "color": {
+        "a": 1,
+        "rgb": 1378979
+      }
+    },
+    {
+      "query": "tag:#colorclass/asymmetric-warfare",
+      "color": {
+        "a": 1,
+        "rgb": 9586822
+      }
+    },
+    {
+      "query": "tag:#colorclass/informed-decision",
+      "color": {
+        "a": 1,
+        "rgb": 12587316
+      }
+    },
+    {
+      "query": "tag:#colorclass/social-cohesion",
+      "color": {
+        "a": 1,
+        "rgb": 825761
+      }
+    },
+    {
+      "query": "tag:#colorclass/energy-dissipation",
+      "color": {
+        "a": 1,
+        "rgb": 16385489
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.24624430338542,
+  "lineSizeMultiplier": 0.58150634765625,
+  "collapse-forces": false,
+  "centerStrength": 0.4814453125,
+  "repelStrength": 11.7586263020833,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.17198314268882378,
+  "close": true
+}

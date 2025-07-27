@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "194d2c0020110ba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1605536f29ad7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17a051d676f0009b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "218c1eaa9ce9ea1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf1b9f2c49fc7c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273c6fd79bf51f5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f49c94c3fee60dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "839bc070fd3e780d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4dea8c9e059e8dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c72308b5a5b3ed28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8b2fdb9f9fe4eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9b15d28b6e97e821",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0ce2dd4b2055537e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "623efa7bee0ae6ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "17a051d676f0009b",
+  "lastOpenFiles": [
+    "reinforcement learning.md",
+    "causal effect.md",
+    "non-maleficence.md",
+    "correlation length.md",
+    "renewable energy.md",
+    "drive satisficing as a form of self-awareness.md",
+    "momentum as information.md",
+    "information processing second law.md",
+    "information ratchet.md",
+    "energy dissipation.md",
+    "kolmogorov energy cascade mechanism.md",
+    "molecular dynamics.md",
+    "turbulent energy spectrum.md",
+    "multiplicative cascade.md",
+    "kolmogorov's 53 law.md",
+    "theory of turbulence.md",
+    "non-commutative geometry.md",
+    "spectral action principle.md",
+    "energy cascade and vortex shedding.md",
+    "kinematic viscosity.md",
+    "kolmogorov scales.md",
+    "eddy kinetic energy (eke).md",
+    "field dynamics.md",
+    "toffoli gate.md",
+    "activated complex theory.md"
+  ]
+}
